@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Bruno Gama
----
-- :hammer_and_wrench:  
+
+- 💻 Ruby on Rails developer and Electronic engineer
 - 🔭 I’m currently working at [Code1](https://github.com/code1br)
 
   ## :hammer_and_wrench: Tech Stack
