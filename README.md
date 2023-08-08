@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi 👋, I'm Bruno Gama
+---
+- :hammer_and_wrench:  
+- 🔭 I’m currently working at [Code1](https://github.com/code1br)
 
+  ## :hammer_and_wrench: Tech Stack
+ 
 <!--
 **bqgama/bqgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
