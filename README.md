@@ -1,9 +1,9 @@
-### Hi 👋, I'm Bruno Gama
+## Hi 👋, I'm Bruno Gama
 
 - 💻 Ruby on Rails developer and Electronic engineer
 - 🔭 I’m currently working at [Code1](https://github.com/code1br)
 
-  ## :hammer_and_wrench: Tech Stack
+  ### :hammer_and_wrench: Tech Stack
  
 <!--
 **bqgama/bqgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
