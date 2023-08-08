@@ -5,7 +5,7 @@
 
 ### :hammer_and_wrench: Tech Stack
 
-- :rubyonrails
+- ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 <!--
 **bqgama/bqgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
