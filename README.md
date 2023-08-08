@@ -19,7 +19,7 @@
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bqgama&show=reviews)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **bqgama/bqgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
