@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bruno Gama
+# Hi 👋, I'm Bruno Gama :man_technologist
 
 - 💻 Ruby on Rails developer and Electronic engineer
 - 🔭 I’m currently working at [Code1](https://github.com/code1br)
