@@ -26,7 +26,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqgama&layout=compact)
 
 ### Social
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/brunoqgama/)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![tata]((https://www.linkedin.com/in/brunoqgama/))<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <!--
 **bqgama/bqgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
