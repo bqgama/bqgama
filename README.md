@@ -23,8 +23,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bqgama&count_private=true&show_icons=true&theme=radical)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqgama&exclude_repo=first-django-project)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqgama&exclude_repo=first-django-project,cactus_app,strider_web,max-js,max-js-2)
+anu
 <!--
 **bqgama/bqgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
