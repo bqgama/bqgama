@@ -3,7 +3,7 @@
 - 💻 Ruby on Rails developer and Electronic engineer
 - 🔭 I’m currently working at [Code1](https://github.com/code1br)
 
-### :hammer_and_wrench: Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
@@ -19,13 +19,13 @@
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### GitHub Stats
+## GitHub Stats
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bqgama&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqgama&layout=compact)
 
-### Social
+## Social
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
