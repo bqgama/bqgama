@@ -5,7 +5,7 @@
 
 
 
-## :hammer_and_wrench: Tech Stack
+## 🛠️ Tech Stack
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
@@ -25,7 +25,7 @@
 
 
 
-## GitHub Stats
+## ⚡ GitHub Stats
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bqgama&theme=radical)
 
