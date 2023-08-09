@@ -22,8 +22,10 @@
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bqgama&count_private=true&show_icons=true&theme=radical)
 
-### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqgama&layout=compact)
+
+### Social
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **bqgama/bqgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
